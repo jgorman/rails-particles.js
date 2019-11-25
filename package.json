@@ -1,19 +1,20 @@
 {
-  "name": "stimulus-particles.js",
-  "version": "1.0.5",
-  "description": "A Stimulus wrapper for Particles.js under Turbolinks.",
+  "name": "rails-particles.js",
+  "version": "1.0.6",
+  "description": "Run particles.js under Rails Turbolinks.",
   "keywords": [
-    "stimulus",
+    "rails",
     "particles.js",
+    "stimulus",
     "turbolinks"
   ],
-  "homepage": "https://github.com/jgorman/stimulus-particles.js#readme",
+  "homepage": "https://github.com/jgorman/rails-particles.js#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jgorman/stimulus-particles.js.git"
+    "url": "https://github.com/jgorman/rails-particles.js.git"
   },
   "bugs": {
-    "url": "https://github.com/jgorman/stimulus-particles.js/issues"
+    "url": "https://github.com/jgorman/rails-particles.js/issues"
   },
   "author": {
     "name": "John Gorman",
